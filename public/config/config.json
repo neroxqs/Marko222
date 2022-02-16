@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA6e41651E7FA9Ac22EF491670a5ca34AA93F1D95",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xA6e41651E7FA9Ac22EF491670a5ca34AA93F1D95",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Marko NFT",
+  "SYMBOL": "Marko",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 69,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/marko-2o6qilnj1k",
+  "SHOW_BACKGROUND": true
+}
